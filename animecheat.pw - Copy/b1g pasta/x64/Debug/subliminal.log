@@ -1,0 +1,171 @@
+﻿  autowall.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  fakewalk.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  lagcompensation.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  resolver.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  legit_backtrack.cpp
+  legitbot.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  airstrafe.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  bunnyhop.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  circlestrafer.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  fakelag.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  logs.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  prediction_system.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  spammers.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  aimbot.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  antiaim.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  manual_aa.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  animation_state.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  definitions.cpp
+  skinchanger.cpp
+  bullet_tracers.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  Создание кода...
+  Компиляция...
+  nightmode.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  other_esp.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  player_esp.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  world_esp.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  configs.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooks.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  code_states.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_beginframe.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_createmove.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_dme.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_events.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_findmdl.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_fsn.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_lockcursor.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_overrideview.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_painttraverse.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_postscreeneffects.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_sceneend.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_senddatagram.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_setupbones.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  Создание кода...
+  Компиляция...
+  hooked_timedemo.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  hooked_wndproc.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  vfunc_hook.cpp
+d:\recode scatecheat3\hooks\vfunc_hook.cpp(75): warning C4312: приведение типов: преобразование из "DWORD" в "FARPROC" большего размера
+  main.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  cmenu.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  button.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  checkbox.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  color_selector.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  control.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  dropdown.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  group_box.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  key_bind.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  multi_dropdown.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  sliderfloat.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  sliderint.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  text_field.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  text_seperator.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  ctab.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  menu_setup.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  newresolver.cpp
+  Создание кода...
+  Компиляция...
+  custom_sounds.cpp
+d:\recode scatecheat3\resources\custom_sounds.cpp(2739): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+d:\recode scatecheat3\resources\custom_sounds.cpp(2739): warning C4309: инициализация: усечение константного значения
+  materials.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  VMatrix.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  Color.cpp
+  Convar.cpp
+d:\recode scatecheat3\sdk\misc\convar.hpp(370): warning C4302: приведение типов: усечение из "const ConVar *" к "uint32_t"
+d:\recode scatecheat3\sdk\misc\convar.hpp(380): warning C4302: приведение типов: усечение из "const ConVar *" к "int"
+d:\recode scatecheat3\sdk\interfaces\imdlcache.hpp(29): warning C4099: studiohdr_t: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+  d:\recode scatecheat3\sdk\misc\studio.hpp(166): note:  см. объявление "studiohdr_t"
+d:\recode scatecheat3\utils\csgo.hpp(33): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  UtlBuffer.cpp
+d:\recode scatecheat3\sdk\misc\utlbuffer.hpp(838): warning C4302: приведение типов: усечение из "const void *" к "unsigned int"
+  UtlString.cpp
+  characterset.cpp
+  checksum_crc.cpp
+d:\recode scatecheat3\sdk\misc\checksum_crc.cpp(151): warning C4311: приведение типов: усечение указателя из "unsigned char *" в "unsigned int"
+d:\recode scatecheat3\sdk\misc\checksum_crc.cpp(151): warning C4302: приведение типов: усечение из "unsigned char *" к "unsigned int"
+  checksum_md5.cpp
+  threadtools.cpp
+  structs.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  convar_spoofer.cpp
+d:\recode scatecheat3\sdk\misc\convar.hpp(370): warning C4302: приведение типов: усечение из "const ConVar *" к "uint32_t"
+d:\recode scatecheat3\sdk\misc\convar.hpp(380): warning C4302: приведение типов: усечение из "const ConVar *" к "int"
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  csgo.cpp
+d:\recode scatecheat3\sdk\misc\convar.hpp(370): warning C4302: приведение типов: усечение из "const ConVar *" к "uint32_t"
+d:\recode scatecheat3\sdk\misc\convar.hpp(380): warning C4302: приведение типов: усечение из "const ConVar *" к "int"
+d:\recode scatecheat3\sdk\interfaces\imdlcache.hpp(29): warning C4099: studiohdr_t: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+  d:\recode scatecheat3\sdk\misc\studio.hpp(166): note:  см. объявление "studiohdr_t"
+d:\recode scatecheat3\utils\csgo.hpp(33): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  ctx.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  draw_manager.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  math.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  netmanager.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  Создание кода...
+  Компиляция...
+  util.cpp
+d:\recode scatecheat3\includes.hpp(11): fatal error C1083: Не удается открыть файл включение: d3dx9.h: No such file or directory,
+  Создание кода...
